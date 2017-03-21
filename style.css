@@ -1,0 +1,22 @@
+.header{
+	background-color: pink;
+	text-align: center;
+	height:100px;
+}
+
+.description{
+	background-color: hotpink;
+	height:250px;
+}
+
+.tutor{
+	background-color: lightblue;
+	float: left;
+	width: 50%;
+}
+
+.books{
+	background-color: green;
+	float:right;
+	width:50%;
+}
